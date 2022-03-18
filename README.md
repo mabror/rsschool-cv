@@ -1,1 +1,1 @@
-https://mabror.github.io/rsschool-cv/
+https://mabror.github.io/rsschool-cv/cv
