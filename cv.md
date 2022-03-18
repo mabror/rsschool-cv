@@ -2,7 +2,7 @@
 
 ## Contacts for communication:
 * Phone: +998885382929;
-* Gmail: mabror2001@gamil.com;
+* Gmail: mabror2001@gmail.com;
 * Github: mabror;
 
 ## About myself:
