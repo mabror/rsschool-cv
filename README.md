@@ -1,1 +1,1 @@
-https://mabror.github.io/rsschool-cv/cv
+https://abror-m-cv-html.netlify.app/
